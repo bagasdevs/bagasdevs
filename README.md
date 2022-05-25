@@ -7,9 +7,8 @@
   </p>
 
 </br>
-</br>
 
-# About My Learning Progress 💬 :
+# About My Learning Process 💬 :
 
 ### - Web Developer, .NET Developer & Web 3.0 Blockchain Enthusiast from Indonesia.
 
@@ -30,14 +29,14 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
-<img src="https://github.com/bagasdevs/bagasdevs/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/bagasdevs/bagasdevs/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/bagasdevs/bagasdevs/master/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/bagasdevs/bagasdevs/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
 </br>
-<img src="https://github.com/bagasdevs/bagasdevs/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/bagasdevs/bagasdevs/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://github.com/bagasdevs/bagasdevs/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/bagasdevs/bagasdevs/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
 </br>
-<img src="https://github.com/bagasdevs/bagasdevs/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/bagasdevs/bagasdevs/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
+<img src="https://github.com/bagasdevs/bagasdevs/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/bagasdevs/bagasdevs/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
 </p>
 </br>
 </br>
@@ -52,10 +51,10 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:developerbagas@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/bagasdevs/bagasdevs/blob/master/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/bagasdevs/bagasdevs/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/kingslayer/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/bagasdevs/bagasdevs/blob/master/assets/icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/bagasdevs/bagasdevs/master/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
