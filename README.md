@@ -5,6 +5,7 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=bagasdevs&&show_icons=true&theme=dark"/>
   </a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasdevs&hide=javascript,html,css&layout=compact&theme=dark)](https://github.com/danifitriantoo/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasdevs&hide=javascript,html,css&layout=center&theme=dark)](https://github.com/danifitriantoo/github-readme-stats)
 
 
