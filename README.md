@@ -7,5 +7,5 @@
   </p>
 
 ![](https://komarev.com/ghpvc/?username=bagasdevs)<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasdecs&hide=javascript,html,css&layout=compact&theme=dark)](https://github.com/danifitriantoo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasdevs&hide=javascript,html,css&layout=compact&theme=dark)](https://github.com/danifitriantoo/github-readme-stats)
 
