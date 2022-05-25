@@ -18,7 +18,7 @@
 - ✨ VB.NET
 - ✨ C#
 - ✨ Laravel
-- ✨ 
+- ✨ Java
 
 ### - Hobbies : 
 - ✨ Gaming Addict
