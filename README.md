@@ -8,7 +8,6 @@
 
 </br>
 </br>
-
 # About My Learning Progress 💬 :
 
 ### - Web Developer, .NET Developer & Web 3.0 Blockchain Enthusiast from Indonesia.
@@ -22,9 +21,6 @@
 
 </br>
 </br>
-</br>
-
-
 
 # Languages & Tools 👨‍💻 🛠:
 </br>
@@ -44,9 +40,6 @@
 </p>
 </br>
 </br>
-</br>
-
-
 
 # Contact Me :
 
@@ -76,7 +69,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </br>
-
 
 
 
