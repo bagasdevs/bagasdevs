@@ -1,4 +1,4 @@
-# Konichiwa 👋
+# Hey, Im Bagas 👋
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
@@ -9,9 +9,9 @@
 </br>
 </br>
 
-# About ME 💬 :
+# About My Learning Progress 💬 :
 
-### - I'm Bagas Web Developer, .NET Developer & Web 3.0 Blockchain Enthusiast from Indonesia.
+### - Web Developer, .NET Developer & Web 3.0 Blockchain Enthusiast from Indonesia.
 
 
 ### - Learning :
@@ -19,12 +19,6 @@
 - ✨ C#
 - ✨ Laravel
 - ✨ Java
-
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Book
-
 
 </br>
 </br>
