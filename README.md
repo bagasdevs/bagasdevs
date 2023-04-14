@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Vue, React, Laravel. Currently learn about Go, Cloud. Also usually used Google Cloud Platform**
 
-- 👨‍💻 All of my projects are available at [bagas.codes](bagas.codes)
+- 👨‍💻 All of my projects are available at [bagas.codes](https://bagas.codes)
 
 - 📫 How to reach me **developerbagas@gmail.com**
 
