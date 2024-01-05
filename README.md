@@ -16,10 +16,10 @@
 <a href="https://instagram.com/bagasdevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bagasdevs" height="30" width="40" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+  //<a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=bagasdevs&&show_icons=true&theme=dark"/>
   </a>
-   <a href="https://github.com/anuraghazra/github-readme-stats"> 
+   //<a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=html,css&langs_count=5&theme=dark" />
   </a>
 </p>
