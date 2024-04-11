@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bagasdevs&label=Profile%20views&color=0e75b6&style=flat" alt="bagasdevs" /> </p>
 
 
-- 🌱 I’m currently learning **Vue, React, Laravel and Flutter. Currently learn about Go, Cloud. Also usually used Google Cloud Platform**
-
-- 👨‍💻 All of my projects are available at [bagas.codes](https://bagas.codes)
+- 🌱 I am currently focusing on learning **Blockchain and Laravel.
 
 - 📫 How to reach me **developerbagas@gmail.com**
 
