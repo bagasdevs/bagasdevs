@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bagasdevs&label=Profile%20views&color=0e75b6&style=flat" alt="bagasdevs" /> </p>
 
 
-- 🌱 I am currently focusing on learning **Blockchain and Laravel.
+- 🌱 I am currently focusing on learning **Blockchain and Laravel**.
 
 - 📫 How to reach me **developerbagas@gmail.com**
 
