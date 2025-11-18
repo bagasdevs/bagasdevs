@@ -1,5 +1,5 @@
 🌱 Hey, I'm Bagas<br>
-💫 I’m currently learning Blockchain Web3<br>💬 Ask me about Tech
+💫 I’m currently learning Blockchain Web3<br>
 
 
 ## 🌐 Socials:
